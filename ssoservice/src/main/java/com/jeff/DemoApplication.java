@@ -22,7 +22,7 @@ public class DemoApplication {
 
     @RequestMapping("/index")
     String index(){
-        return "Hello Spring Boot111";
+        return "Hello Spring Boot";
     }
 
     public static void main(String[] args) {
